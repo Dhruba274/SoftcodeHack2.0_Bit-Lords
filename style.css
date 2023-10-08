@@ -76,7 +76,8 @@ header{
 .navbar a:hover{
   background: var(--bg-color);
   color: var(--text-color);
-  box-shadow: 5px 10px 30px rgb(85,85,85,20%);
+  box-shadow: 10px 20px 30px rgb(85,85,85,50%);
+  background-color: #6e54fa;
 }
 
 #menu-icon{
@@ -219,6 +220,7 @@ header.sticky{
   box-shadow: 5px 30px 56.1276px rgb(55 55 55 / 20%);
   border: 1px solid transparent;
   transform: translateY(-3px);
+  background-color: rgb(110,84,250);
 }
 /* -----------Contact----------- */
 
